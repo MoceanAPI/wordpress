@@ -7,7 +7,7 @@ Configure Cron Job to send Mocean SMS reminders in Wordpress
 - [Shared Hosting](#shared-hosting)
     - [CPanel](#cpanel)
     - [Plesk](#plesk)
-    - [Other Hosting Companies](#other-hosting-companies)
+    - [Popular Hosting Companies](#popular-hosting-companies)
 
 ## Windows Server
 1. Login to your Windows Server
