@@ -63,7 +63,9 @@ Configure Cron Job to send Mocean SMS reminders in Wordpress
 ![image](https://user-images.githubusercontent.com/24620178/143247229-38b8d604-7fb6-496a-aad3-0cb7b47d5a52.png)
 4. Click ```OK```
 
-### Other Hosting Companies
+### Popular Hosting Companies Cron job setup
+Set the Cron schedule to ```*/15 * * * *``` (15 minutes every day)
+Set the command to ```curl https://yourdomain.com/wp-cron.php``` (replace ```yourdomain``` with your ```actual domain```
 1. GoDaddy https://www.godaddy.com/help/create-cron-jobs-16086
 2. Bluehost https://my.bluehost.com/hosting/help/411
 3. HostGator https://www.hostgator.com/help/article/how-do-i-create-and-delete-a-cron-job
